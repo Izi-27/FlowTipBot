@@ -98,35 +98,6 @@
 
 ---
 
-## 🎬 Video Demo Script
-
-### Introduction (30s)
-"Hi! I'm [Your Name] and I built FlowTipBot for Forte Hacks. It's a Discord bot that enables instant crypto tipping on Flow blockchain, powered by AI and Forte's composable DeFi Actions."
-
-### Demo: Registration (30s)
-- Show Discord server
-- Run `/register 0xYOUR_ADDRESS`
-- Show successful registration
-- Highlight Flow integration
-
-### Demo: Tipping (30s)
-- Run `/tip @user 5`
-- Show transaction confirmation
-- Open Flowscan link
-- Show recipient notification
-
-### Demo: AI Scoring (30s)
-- Send a helpful message
-- Show AI auto-scoring
-- Show automatic reward
-- Explain quality detection
-
-### Demo: Leaderboard (20s)
-- Run `/leaderboard`
-- Show top tippers
-- Show top recipients
-- Highlight engagement
-
 ### Code Walkthrough (1min)
 - Show `src/services/flowService.js`
 - Highlight Forte Actions integration
