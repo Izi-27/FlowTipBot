@@ -98,7 +98,7 @@ FlowTipBot/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/FlowTipBot.git
+git clone https://github.com/Izi-27/FlowTipBot.git
 cd FlowTipBot
 ```
 
@@ -260,9 +260,9 @@ This entire project was built using AI assistance:
 
 ## 👥 Team
 
-**Developer**: [Your Name]
+**Developer**: Isaiah
 **Role**: Solo builder (with AI assistance!)
-**GitHub**: [@YourUsername](https://github.com/YourUsername)
+**GitHub**: [@Izi-27](https://github.com/Izi-27)
 
 ## 📄 License
 
@@ -278,9 +278,9 @@ MIT License - See LICENSE file
 
 ## 📞 Contact
 
-- **GitHub**: https://github.com/YourUsername/FlowTipBot
-- **Discord**: YourDiscord#1234
-- **Twitter**: @YourTwitter
+- **GitHub**: https://github.com/Izi-27/FlowTipBot
+- **Discord**: FlowTipBot Community
+- **Twitter**: @FlowTipBot
 
 ---
 

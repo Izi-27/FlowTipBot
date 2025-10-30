@@ -1,6 +1,7 @@
 # 🎁 FlowTipBot - Project Summary
 
 **Built for Forte Hacks 2025**  
+**Developer**: Isaiah (@Izi-27)  
 **Created**: October 30, 2025  
 **Development Time**: ~3 hours (with AI)  
 **Status**: ✅ Ready for submission

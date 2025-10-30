@@ -4,7 +4,7 @@
 **Hackathon**: Forte Hacks 2025  
 **Track**: Best Vibe Coded App  
 **Development Period**: October 30, 2025  
-**Developer**: Built entirely with AI assistance
+**Developer**: Isaiah (@Izi-27) - Built entirely with AI assistance
 
 ---
 

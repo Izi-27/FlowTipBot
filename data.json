@@ -1,5 +1,13 @@
 {
-  "users": {},
+  "users": {
+    "972560562816954439": {
+      "discordId": "972560562816954439",
+      "username": "big_izi",
+      "flowAddress": "0xbda4a3612a8a8ade",
+      "registeredAt": 1761862661630,
+      "createdAt": 1761862661630
+    }
+  },
   "tips": [],
   "scores": [],
   "leaderboard": {}
